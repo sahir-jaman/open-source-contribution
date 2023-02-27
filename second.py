@@ -1,1 +1,5 @@
-print("This is the second file of my project")
+print("second file")
+a=input()
+print(f"My number is {a}")
+for i in range(2):
+    print(f"sahir {i}")
